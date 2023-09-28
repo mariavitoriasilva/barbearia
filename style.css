@@ -44,3 +44,32 @@ ul {
   vertical-align: top;
   margin-right: 15%;
 }
+
+header {
+  background: #BBBBBB;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  height: 150px;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav a {
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
