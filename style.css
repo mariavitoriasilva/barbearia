@@ -73,3 +73,16 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
+
+footer {
+  text-align: center;
+  padding: 40px 0;
+  background: grey;
+  margin-top: 50px;
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
